@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 350px;
+    height: 370px;
+    border: 2px solid black;
+    margin-top: 70px;
+    margin-left: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 50px;
+}
+
+#display{
+    width: 330px;
+    height: 70px;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-bottom: 25px;
+}
+
+.btn{
+    width: 75px;
+    height: 60px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+
+}
